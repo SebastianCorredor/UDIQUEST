@@ -1,0 +1,12 @@
+.light-theme {
+    /* Define estilos para el modo claro */
+    background-color: #fff;
+    color: #000;
+}
+
+  /* Estilos para el modo oscuro */
+.dark-theme {
+    /* Define estilos para el modo oscuro */
+    background-color: #222;
+    color: #fff;
+}
